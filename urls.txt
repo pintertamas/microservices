@@ -11,3 +11,7 @@ API Gateway
 http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/HUF
 http://localhost:8765/currency-conversion/currency-conversion/from/USD/to/HUF/quantity/69
 http://localhost:8765/currency-conversion/currency-conversion-feign/from/USD/to/HUF/quantity/69
+
+http://localhost:8765/currency-exchange/from/USD/to/HUF
+http://localhost:8765/currency-conversion/from/USD/to/HUF/quantity/69
+http://localhost:8765/currency-conversion-feign/from/USD/to/HUF/quantity/69
